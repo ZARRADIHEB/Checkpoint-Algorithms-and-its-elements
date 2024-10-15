@@ -1,4 +1,5 @@
 ALGORITHM counter
+
 VAR
   n : STRING;
   noc, now, nov : INTEGER;
